@@ -1,0 +1,35 @@
+
+                Transformation                          OUTPUT
+                ==============                          ======
+
+=> aabbdcbcafeklbc     LP :     $$    LL :    ||
+
+=> a a bbdcbcafeklbc   LP : 0   $$    LL : a  ||   a : 0
+
+=> aa b bdcbcafeklbc   LP : 1   $$    LL : a  ||
+
+=> aab b dcbcafeklbc   LP : 2   $$    LL : b  ||   a : 0   #   b : 2
+
+=> aabb d cbcafeklbc   LP : 3   $$    LL : b  ||
+
+=> aabbd c bcafeklbc   LP : 4   $$    LL : d  ||   a : 0   #   b : 2   #   d : 4
+
+=> aabbcd b cafeklbc   LP : 5   $$    LL : d  ||   a : 0   #   b : 2   #   c : 4   #   d : 5                                                    c : 5
+
+=> aabbbcd c afeklbc   LP : 6   $$    LL : d  ||   a : 0   #   b : 2   #   c : 5   #   d : 6                                                    b : 6
+
+=> aabbbccd a feklbc   LP : 7   $$    LL : d  ||   a : 0   #   b : 2   #   c : 5   #   d : 7                                                    c : 7
+
+=> aaabbbccd f eklbc   LP : 8   $$    LL : d  ||   a : 0   #   b : 3   #   c : 6   #   d : 8                                                    a : 8
+
+=> aaabbbccdf e klbc   LP : 9   $$    LL : f  ||   a : 0   #   b : 3   #   c : 6   #   d : 8   #   f : 9
+
+=> aaabbbccdef k lbc   LP : 10  $$    LL : f  ||   a : 0   #   b : 3   #   c : 6   #   d : 8   #   e : 9   #   f : 10                           e : 10
+
+=> aaabbbccdefk l bc   LP : 11  $$    LL : k  ||   a : 0   #   b : 3   #   c : 6   #   d : 8   #   e : 9   #   f : 10  #   k : 11
+
+=> aaabbbccdefkl b c   LP : 12  $$    LL : l  ||   a : 0   #   b : 3   #   c : 6   #   d : 8   #   e : 9   #   f : 10  #   k : 11  #  l : 12
+
+=> aaabbbbccdefkl c   LP : 13  $$    LL : l   ||   a : 0   #   b : 3   #   c : 7   #   d : 9   #   e : 10   #   f : 11  #   k : 12  #  l : 13   b : 13
+
+=> aaabbbbcccdefkl    LP : 14  $$    LL : l   ||   a : 0   #   b : 3   #   c : 7   #   d : 10   #   e : 11   #   f : 12  #   k : 13  #  l : 14   c : 14

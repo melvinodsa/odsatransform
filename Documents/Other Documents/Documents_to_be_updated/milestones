@@ -1,0 +1,28 @@
+21-09-2015
+==========
+Initial design complete with pen and paper test done.
+
+22-09-2015
+==========
+Forward transform code done in python.
+
+23-09-2015
+==========
+Algorithm flow diagram created, reverse transform code, test automation.
+
+24-09-2015
+==========
+Negative efficiency of algorithm resolved to compress any generic text
+belonging to English alphabet, result validation added.
+
+31-09-2015
+==========
+Started coding the coding the algorithm in C.
+
+12-11-2015
+==========
+Forward transformation has been coded in C.
+
+17-11-2015
+==========
+Reverse transformation has been coded in C.

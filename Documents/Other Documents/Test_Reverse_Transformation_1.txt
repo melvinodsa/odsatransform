@@ -1,0 +1,26 @@
+
+                Reverse - Transformation
+                ========================
+
+=> a : 0   #   b : 3   #   c : 7   #   d : 10   #   e : 11   #   f : 12  #   k : 13  #  l : 14  #  EOS : 14
+   ========================================================================================================
+              c : 14   #   b : 13   #   e : 10   a : 8   #   c : 7   #   b : 6   #   c : 5
+
+Total length : 3 + 4 + 3 + 1 + 1 + 1 + 1 + #1 = 15
+
+Efficiency   : 15/32*100 = 46.875%
+
+=> aaabbbbcccdefkl          ||     c : 14   #   b : 13   #   e : 10   #   a : 8   #   c : 7   #   b : 6   #   c : 5
+=> aaabbbbccdefklc          ||     b : 13   #   e : 10   #   a : 8   #   c : 7   #   b : 6   #   c : 5
+=> aaabbbccdefklbc          ||     e : 10   #   a : 8   #   c : 7   #   b : 6   #   c : 5
+=> aaabbbccdfeklbc          ||     a : 8   #   c : 7   #   b : 6   #   c : 5
+=> aabbbccdafeklbc          ||     c : 7   #   b : 6   #   c : 5
+=> aabbbcdcafeklbc          ||     b : 6   #   c : 5
+=> aabbcdbcafeklbc          ||     c : 5
+=> aabbdcbcafeklbc
+
+
+Final string    = aabbdcbcafeklbc
+Original string = aabbdcbcafeklbc
+
+Accuracy  :   100%

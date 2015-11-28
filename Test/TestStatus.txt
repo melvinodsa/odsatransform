@@ -1,0 +1,6 @@
+Decompression was successful.
+Input Size              : 1037 bytes
+Theoretical Output Size : 198 bytes
+Original Output Size    : 343 bytes
+Theoretical Efficiency  : 81 %
+Original Efficiency     : 67 %
