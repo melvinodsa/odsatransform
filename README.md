@@ -5,7 +5,7 @@
 It's a compression cum encryption engine.
 
 ## What's there in this?
-That's nice question in a world were lots of compression algorithms are available, what it can do.
+That's a nice question in a world were lots of compression engines are available, why one more?
 
 ![status results](https://github.com/melvinodsa/odsatransform/blob/master/Documents/status.png)
 
@@ -18,3 +18,9 @@ That's nice question in a world were lots of compression algorithms are availabl
 
 - [**Kinda...  sort of.... let me try this first**](https://github.com/melvinodsa/odsatransform/releases)
 - [**Stop talking ! Show me the code**](https://github.com/melvinodsa/odsatransform/wiki/Contributor)
+
+
+> ### Clone this repo
+>`git clone https://github.com/melvinodsa/odsatransform.git`
+> ### See the [wiki](https://github.com/melvinodsa/odsatransform/wiki)
+> ### See the Library [documentation](melvinodsa.github.io/odsatransform/html/index.html)
