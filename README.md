@@ -1,5 +1,7 @@
 ![odsatransform](https://github.com/melvinodsa/odsatransform/blob/master/Documents/logo.gif)
 # ODSA Transform
+
+[![Join the chat at https://gitter.im/melvinodsa/odsatransform](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/melvinodsa/odsatransform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 It's a new compression cum encryption algorithm.
 
 ## What's there in this?
