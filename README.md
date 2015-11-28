@@ -1,4 +1,4 @@
-![odsatransform](https://github.com/melvinodsa/odsatransform/blob/master/Documents/logo.gif)
+![odsatransform](http://melvinodsa.github.io/odsatransform/images/logo.gif)
 # ODSA Transform
 
 [![Join the chat at https://gitter.im/melvinodsa/odsatransform](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/melvinodsa/odsatransform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -7,7 +7,7 @@ It's a compression cum encryption engine.
 ## What's there in this?
 That's a nice question in a world were lots of compression engines are available, why one more?
 
-![status results](https://github.com/melvinodsa/odsatransform/blob/master/Documents/status.png)
+![status results](http://melvinodsa.github.io/odsatransform/images/status.png)
 
 - It can sort to 100% perfection and retrieve data back.
 - For text data it can even compress your files upto 90% size or more.
