@@ -5,12 +5,12 @@
 It's a compression cum encryption engine.
 
 ## What's there in this?
-That's a nice question in a world were lots of compression engines are available, why one more?
+That's a nice question in a world were lot of compression engines are available, why one more?
 
 ![status results](http://melvinodsa.github.io/odsatransform/images/status.png)
 
-- It can sort to 100% perfection and retrieve data back.
-- For text data it can even compress your files upto 90% size or more.
+- It can **sort to 100%** perfection and retrieve data back.
+- For text data it can even compress your files to less than **90%** its original size or more.
 - It comes in with variable length encryption.
 - And lot more.
 
