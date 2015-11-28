@@ -23,4 +23,4 @@ That's a nice question in a world were lots of compression engines are available
 > ### Clone this repo
 >`git clone https://github.com/melvinodsa/odsatransform.git`
 > ### See the [wiki](https://github.com/melvinodsa/odsatransform/wiki)
-> ### See the Library [documentation](melvinodsa.github.io/odsatransform/html/index.html)
+> ### See the Library [documentation](http:/melvinodsa.github.io/odsatransform/html/index.html)
