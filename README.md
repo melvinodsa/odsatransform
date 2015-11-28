@@ -2,7 +2,7 @@
 # ODSA Transform
 
 [![Join the chat at https://gitter.im/melvinodsa/odsatransform](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/melvinodsa/odsatransform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-It's a new compression cum encryption algorithm.
+It's a compression cum encryption engine.
 
 ## What's there in this?
 That's nice question in a world were lots of compression algorithms are available, what it can do.
@@ -16,5 +16,5 @@ That's nice question in a world were lots of compression algorithms are availabl
 
 ## Are you intrested ?
 
-- [**kinda sort of.... let me try this first**](https://github.com/melvinodsa/odsatransform/releases)
+- [**Kinda...  sort of.... let me try this first**](https://github.com/melvinodsa/odsatransform/releases)
 - [**Stop talking ! Show me the code**](https://github.com/melvinodsa/odsatransform/wiki/Contributor)
